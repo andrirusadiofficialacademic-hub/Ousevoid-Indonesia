@@ -1,0 +1,6 @@
+{
+  "name": "Ousevoid Official Store",
+  "description": "Toko online resmi Ousevoid dengan katalog produk audio & gadget, keranjang belanja, pelacakan pesanan real-time, dan login e-commerce.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
